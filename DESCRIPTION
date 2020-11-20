@@ -1,0 +1,10 @@
+Package: KUcolors
+Type: Package
+Title: Official colors of UCPH
+Version: 1.0
+Date: 2017-10-25
+Authors@R: person("Jacob", "Ostergaard", email = "ostergaard@math.ku.dk", role = c("aut", "cre"))
+Description: Loads the official colors of the University of Copenhagen for use in presentations and/or plots
+Depends: R(>= 3.1.0)
+License: MIT
+LazyData: TRUE
